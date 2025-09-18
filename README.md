@@ -13,16 +13,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-### 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davidzen111&theme=tokyonight)  
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davidzen111&theme=tokyonight)
 
-### 🏆 GitHub Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=Davidzen111&theme=tokyonight&column=6&margin-w=15&margin-h=15)  
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Davidzen111&theme=tokyonight&column=6&margin-w=15&margin-h=15)
 
-### 📈 Metrics (Language & Activity)  
-![Metrics](https://metrics.lecoq.io/Davidzen111?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&languages.limit=8&isocalendar.duration=half-year&config.timezone=Asia%2FMakassar)  
+### 📈 Top Languages (fallback)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzen111&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 ---
 
