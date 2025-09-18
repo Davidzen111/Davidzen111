@@ -15,11 +15,12 @@
 
 ## 📊 GitHub Stats  
 
-![Davidzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Davidzen111&show_icons=true&theme=tokyonight&cache_seconds=86400)  
+<!-- Ganti `your-deploy-url` dengan link hasil deploy Vercel kamu -->
+![Davidzen's GitHub stats](https://your-deploy-url.vercel.app/api?username=Davidzen111&show_icons=true&theme=tokyonight)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davidzen111&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzen111&layout=compact&theme=tokyonight&cache_seconds=86400)  
+![Top Langs](https://your-deploy-url.vercel.app/api/top-langs/?username=Davidzen111&layout=compact&theme=tokyonight)  
 
 ---
 
