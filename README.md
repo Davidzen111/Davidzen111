@@ -21,10 +21,6 @@
 ### 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Davidzen111&theme=tokyonight&column=6&margin-w=15&margin-h=15)
 
-### 📈 Top Languages (fallback)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davidzen111&layout=compact&theme=tokyonight&cache_seconds=86400)
-
-
 ---
 
 ## 🌐 Portfolio  
