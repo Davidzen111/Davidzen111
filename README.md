@@ -9,18 +9,20 @@
 ## 🔧 Tech Stack  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-<!-- Ganti `your-deploy-url` dengan link hasil deploy Vercel kamu -->
-![Davidzen's GitHub stats](https://your-deploy-url.vercel.app/api?username=Davidzen111&show_icons=true&theme=tokyonight)  
-
+### 🔥 Streak Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davidzen111&theme=tokyonight)  
 
-![Top Langs](https://your-deploy-url.vercel.app/api/top-langs/?username=Davidzen111&layout=compact&theme=tokyonight)  
+### 🏆 GitHub Trophies  
+![trophy](https://github-profile-trophy.vercel.app/?username=Davidzen111&theme=tokyonight&column=6&margin-w=15&margin-h=15)  
+
+### 📈 Metrics (Language & Activity)  
+![Metrics](https://metrics.lecoq.io/Davidzen111?template=classic&base.header=0&base.metadata=0&languages=1&isocalendar=1&languages.limit=8&isocalendar.duration=half-year&config.timezone=Asia%2FMakassar)  
 
 ---
 
@@ -35,5 +37,4 @@
 - ☕ Produktif ditemani kopi eakk  
 
 ---
-
 ⭐️ _"Keep learning, keep building, keep growing."_  
