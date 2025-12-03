@@ -1,8 +1,8 @@
 # 👋 Hi, I'm DAVIDZEN  
 
 🎓 Mahasiswa Sistem Informasi, Universitas Hasanuddin (Semester 3)  
-💻 Tertarik pada **Pengembangan Perangkat Lunak, OOP, dan Web Development**  
-🚀 Sedang belajar lebih dalam tentang **Python**, **Java**, dan **C++**  
+💻 Tertarik pada dirimu  
+🚀 Sementara belajar tentang **Python**, **Java**, dan **C++**  
 
 ---
 
@@ -23,15 +23,10 @@
 
 ---
 
-## 🌐 Portfolio  
-🔗 [My Portfolio Website](https://Davidzen111.github.io)  
-
----
-
 ## ✨ Fun Facts  
-- 🏫 Semester 3 di Sistem Informasi UNHAS  
-- 📚 Senang mencoba teknologi baru  
-- ☕ Produktif ditemani kopi eakk  
+- Asal Luwu Utara, Suku Toraja  
+- Suka SUSU Strawberry  
+- Bisa tidur dimana saja 
 
 ---
 ⭐️ _"Keep learning, keep building, keep growing."_  
